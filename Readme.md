@@ -19,6 +19,3 @@ No CSS. No JavaScript. Just interlinked pages that form a branching story.
 - Include ASCII art in `<pre>` blocks for flair.
 - Organize a "walkthrough" HTML page that lists all possible endings.
 - Convert story branches into a flowchart and include it as markdown.
-
-## License
-MIT
